@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/color000/react_todo.git/static/css/main.0f7b256e.css",
-    "main.js": "/color000/react_todo.git/static/js/main.af91b1f0.js",
-    "static/js/787.2843ca88.chunk.js": "/color000/react_todo.git/static/js/787.2843ca88.chunk.js",
-    "index.html": "/color000/react_todo.git/index.html",
-    "main.0f7b256e.css.map": "/color000/react_todo.git/static/css/main.0f7b256e.css.map",
-    "main.af91b1f0.js.map": "/color000/react_todo.git/static/js/main.af91b1f0.js.map",
-    "787.2843ca88.chunk.js.map": "/color000/react_todo.git/static/js/787.2843ca88.chunk.js.map"
+    "main.css": "/react_todo/static/css/main.0f7b256e.css",
+    "main.js": "/react_todo/static/js/main.b2a25355.js",
+    "static/js/787.2843ca88.chunk.js": "/react_todo/static/js/787.2843ca88.chunk.js",
+    "index.html": "/react_todo/index.html",
+    "main.0f7b256e.css.map": "/react_todo/static/css/main.0f7b256e.css.map",
+    "main.b2a25355.js.map": "/react_todo/static/js/main.b2a25355.js.map",
+    "787.2843ca88.chunk.js.map": "/react_todo/static/js/787.2843ca88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f7b256e.css",
-    "static/js/main.af91b1f0.js"
+    "static/js/main.b2a25355.js"
   ]
 }
